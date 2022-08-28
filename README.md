@@ -1,4 +1,4 @@
-<img src="/images/logo_ruben.png" alt="logo" style="float: left; size: 10%; width: 10%; margin-right: 10px;" />
+<img src="/images/logo_ruben.png" alt="logo" size: 20%; width: 20%; margin-right: 10px;" />
 
 ### Hello 👋
 I am a PHP programmer and I am studying business Informatics at the university of Bremerhaven until March 2023 and i am currently working as an working student.

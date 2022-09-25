@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="images/logo_ruben-allenstein_rot.png" alt="Image" width="200" /><br/>
+    <img src="images/logo_ruben-allenstein.png" alt="Image" width="200" /><br/>
 </div>
 
 ### Hi there 😄

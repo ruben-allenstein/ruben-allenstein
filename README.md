@@ -3,7 +3,7 @@
 </div>
 
 ### Hi there 😄
-ℹ️ I am a ```PHP``` programmer and I am studying business Informatics at the university of Bremerhaven until March 2023 and i am currently working as a working student for Vanilla Reply. 
+ℹ️
 
 Certificates:
 - Shopware 6 Certified Advanced Template Designer 

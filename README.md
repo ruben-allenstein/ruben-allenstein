@@ -4,9 +4,3 @@
 
 ### Hi there 😄
 ℹ️
-
-Certificates:
-- Shopware 6 Certified Advanced Template Designer 
-- Shopware 6 Certified Advanced Developer 
-
-🤩 I love working with Shopware 6 and E2E testing in CI/CD pipelines.
